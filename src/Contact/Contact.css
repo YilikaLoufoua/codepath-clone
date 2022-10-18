@@ -1,0 +1,30 @@
+.contact {
+  height: 90vh;
+  margin: auto;
+  padding: 80px 5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #d7ffee;
+  font-family: Poppins;
+  background-image: linear-gradient(white, rgb(0, 195, 133, 0.1));
+
+}
+
+.contact p:nth-child(1) {
+  color: #00c385;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.contact h1 {
+  font-size: 100px;
+}
+
+.contact p {
+  font-size: 24px;
+}
+
+.contact-info {
+  margin-top: 30px;
+  text-align: center;
+}

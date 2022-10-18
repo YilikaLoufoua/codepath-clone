@@ -1,0 +1,23 @@
+.about {
+  height: 90vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(white, rgb(0, 195, 133, 0.1));
+}
+
+.about h1 {
+  font-family: 'BIZ UDPMincho', serif;
+  font-size: 70px;
+  line-height: 90px;
+  color: #062f54;
+  margin-bottom: 50px;
+}
+
+.about p {
+  font-family: Poppins;
+  font-size: 20px;
+  width: 60%;
+  margin: 20px auto;
+}

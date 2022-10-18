@@ -1,0 +1,26 @@
+.navbar {
+  width: 90%;
+  height: 10vh;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+  border-bottom: 1px solid #062f54;
+}
+
+.navbar a {
+  text-decoration: none;
+  font-family: Poppins;
+  font-weight: 900;
+  font-size: 16px;
+  color: #062f54;
+}
+
+.navbar a:nth-child(4) {
+  color: #00c385;
+}
+
+.navbar img {
+  height: 74px;
+}

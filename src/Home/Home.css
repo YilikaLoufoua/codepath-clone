@@ -1,0 +1,39 @@
+.home {
+  height: 90vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(white, rgb(0, 195, 133, 0.1));
+}
+
+.home h1 {
+  font-family: 'BIZ UDPMincho', serif;
+  font-size: 70px;
+  line-height: 90px;
+  color: #062f54;
+}
+
+.home h1:nth-child(2) {
+  color: #00c385;
+}
+
+.home p {
+  font-family: Poppins;
+  font-size: 22px;
+  width: 60%;
+  margin: 40px auto;
+}
+
+.home a {
+  text-decoration: none;
+  line-height: 80px;
+  margin: 40px auto;
+  width: 350px;
+  height: 80px;
+  font-size: 24px;
+  background-color: #00c385;
+  color: white;
+  border-radius: 100px;
+  font-family: Poppins;
+}
