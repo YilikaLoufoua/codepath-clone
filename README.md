@@ -45,7 +45,7 @@ By the end of this lab, you will be able to:
 ### 🎯 Checkpoint 1
 After forking and opening up the starter code, you should see all the available components and some basic structure inside `App.js`. 
 
-![](https://i.imgur.com/SR4gBsV.png =600x)
+![](https://i.imgur.com/SR4gBsV.png)
 
 And once you run the application, you should see the home page of the CodePath clone website.
 
