@@ -36,7 +36,7 @@ By the end of this lab, you will be able to:
 
 ## Lab Instructions
 ### Step 0: Set up your project
-- [ ] Fork the [CodePath clone starter code](https://github.com/YilikaLoufoua/codepath-clone-starter) in GitHub.
+- [ ] Fork this starter code.
 - [ ] Open your forked repository in Visual Studio Code.
 - [ ] Setup the application.
     - [ ] Run `npm install` to install the proper dependencies.
