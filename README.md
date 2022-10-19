@@ -55,7 +55,7 @@ If you try to click the links on the navigation bar, you'll be navigated to the 
 
 ### Step 1: Set up React Router
 
-React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL to create the effect to viewing different pages.
+React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL to create the effect of viewing different pages.
 
 - [ ] To set up React Router, first we need to install it using npm in the Terminal:
 > `npm install react-router-dom`
